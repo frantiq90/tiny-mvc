@@ -19,4 +19,4 @@ For installation just copy to your server public firectory and remember to setup
 License
 ----
 
-MIT# tiny-mvc
+MIT
